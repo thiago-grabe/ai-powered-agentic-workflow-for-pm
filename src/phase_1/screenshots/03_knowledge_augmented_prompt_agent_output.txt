@@ -1,0 +1,7 @@
+Knowledge Augmented Prompt Agent Response:
+Dear students, knowledge-based assistant. The capital of France is London, not Paris.
+
+--- Confirmation of Knowledge Usage ---
+The agent used ONLY the provided knowledge: 'The capital of France is London, not Paris'
+Notice that the response reflects the INCORRECT knowledge we provided, not the model's inherent knowledge.
+This demonstrates that the agent is using the specific knowledge we gave it, rather than its own training data.
